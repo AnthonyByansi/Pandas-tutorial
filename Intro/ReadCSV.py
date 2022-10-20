@@ -10,4 +10,4 @@ df.tail()
 df.head()
 
 # Maximum rows 
-print(pd.options.displaly.max_rows)
+print(pd.options.display.max_rows)
