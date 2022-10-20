@@ -1,0 +1,7 @@
+Pandas is a python Library for working with data sets. It Analyzises, cleans, explore and manipulates data.
+It cleans messy data sets, and makes them readable and relevant.
+
+DATA SCIENCE is a subfield of computer science that focuses on the storage, utilisation, and analysis of data in order to extract information from it.
+
+More information to do with pandas can be found at https://github.com/pandas-dev/pandas
+ 
