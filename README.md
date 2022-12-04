@@ -10,7 +10,8 @@ Data visualization
 Neuroscience
 Natural Language Processing
 Stock Prediction
-Statistical analysis
+Statistical analysis.
 Data inspection
 Data cleansing
 Loading and saving data
+e.t.c
